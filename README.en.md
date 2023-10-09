@@ -7,6 +7,9 @@ This is a download script for [にゃる](https://www.pixiv.net/users/632978)'s
 
 Automatically downloads images from Pixiv and renames files to install as mods.
 
+This script is not affiliated with the mod author.
+Also, there is a possibility that this script will not work if this author updates his work.
+
 ## How to Use
 1. Download and unzip [the zip file](https://github.com/kairi003/lobotomy_corp_cat_sephirah_dl/archive/refs/heads/master.zip)
 1. Run `download.bat` (Make sure `map.txt` is in the same folder)

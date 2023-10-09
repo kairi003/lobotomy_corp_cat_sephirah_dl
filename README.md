@@ -8,6 +8,9 @@
 
 Pixivからの画像ダウンロードとModとして導入するためのファイル名変更を自動で行います。
 
+このスクリプトはMod作者様とは関係ありません。
+また、この作者様が作品を更新することでこのスクリプトが動作しなくなる可能性があります。
+
 ## 使い方
 1. [zipファイル](https://github.com/kairi003/lobotomy_corp_cat_sephirah_dl/archive/refs/heads/master.zip)をダウンロードして展開
 1. `download.bat`を実行(同じフォルダに`map.txt`がある必要があります)
