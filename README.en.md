@@ -5,6 +5,8 @@ This is a download script for [にゃる](https://www.pixiv.net/users/632978)'s
 [(Middle Layer)](https://www.pixiv.net/artworks/69126259),
 [(Lower Layer)](https://www.pixiv.net/artworks/69127854).
 
+Automatically downloads images from Pixiv and renames files to install as mods.
+
 ## How to Use
 1. Download and unzip [the zip file](https://github.com/kairi003/lobotomy_corp_cat_sephirah_dl/archive/refs/heads/master.zip)
 1. Run `download.bat` (Make sure `map.txt` is in the same folder)
